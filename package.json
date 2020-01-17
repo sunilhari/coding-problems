@@ -6,6 +6,11 @@
   "scripts": {
     "test": "jest"
   },
+  "keywords": [
+    "coding",
+    "algorith",
+    "solution"
+  ],
   "author": "Sunil Hari",
   "license": "MIT",
   "dependencies": {
