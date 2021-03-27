@@ -40,6 +40,4 @@ function matchingBrackets(str) {
   return symbolStack.length === 0;
 }
 
-matchingBrackets('([])[]({})');
-
 module.exports = matchingBrackets;
